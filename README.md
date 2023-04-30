@@ -10,6 +10,6 @@ d) Visual ChatGPT -
 
 e)  OpenAI chat with excel - demo video - 
 
-f) semantic kernel - 
+f) semantic kernel - https://colab.research.google.com/drive/1p-ym7ayNQmXSu7OeaY6H6UDpn3FyAD9a
 
 g) essay on best practices for prompt engineering in medium -
