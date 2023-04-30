@@ -1,6 +1,6 @@
 # DeepLearning_Assignment5
 
-a) BabyAGI with langchain -
+a) BabyAGI with langchain - https://colab.research.google.com/drive/19dGufjIA0J9Rf9NMR8bpMN9hnNumxuq8?usp=sharing
 
 b) AgentGPT - 
 
