@@ -1,4 +1,4 @@
-# DeepLearning_Assignment5
+# DeepLearning_BabyAGI
 
 a) BabyAGI with langchain - https://colab.research.google.com/drive/19dGufjIA0J9Rf9NMR8bpMN9hnNumxuq8?usp=sharing
 
